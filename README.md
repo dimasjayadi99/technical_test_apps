@@ -1,16 +1,19 @@
-# technical_test_apps
+# Technical-Test-Mobile-App
 
-A new Flutter project.
+Aplikasi untuk kebutuhan technical test menggunakan Flutter.
 
-## Getting Started
+## Screenshot
+![Frame 1 (1)](https://github.com/user-attachments/assets/0ad3df84-7ae3-41a6-b22a-45bcb09594c8)
 
-This project is a starting point for a Flutter application.
+## Instalasi
+- Clone repository ini
+- Buka project menggunakan Android Studio
+- Build dan jalankan aplikasi di emulator atau perangkat Android
 
-A few resources to get you started if this is your first Flutter project:
+## Fitur Aplikasi
+- Tab Success Load List Karyawan
+- Detail Page Data Karyawan
+- Tab Empty List Karyawan
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Credit
+- [Github](https://github.com/dimasjayadi99)
